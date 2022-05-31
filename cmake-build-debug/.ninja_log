@@ -1,0 +1,5 @@
+# ninja log v5
+0	496	6756390568261306	CMakeFiles/Assignment_6.dir/main.cpp.obj	a7450a4bfc5274e
+1	188	6757023887519231	build.ninja	aeb4f71bde2be45c
+60	154	6756390756663471	Assignment_6.exe	ffd02474d2731847
+3	59	6756390755750597	CMakeFiles/Assignment_6.dir/Date.cpp.obj	8a980cf2c47c959b
